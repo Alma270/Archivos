@@ -1,0 +1,6 @@
+To install SparkleShare 1.0 in Ubuntu 12.10, 12.04 or 11.10, firstly add the Git stable releases PPA (the Sparkleshare PPA below depends on this PPA):
+
+sudo add-apt-repository ppa:git-core/ppa
+sudo apt-get update
+
+sudo apt-get install sparkleshare libwebkit1.1-cil libmono-posix4.0-cil libmono-system-core4.0-cil libnotify0.4-cil
